@@ -9,7 +9,7 @@ const MainBannerSection = () => {
         className="absolute inset-0 bg-cover bg-center"
         style={{
           backgroundImage:
-            "url('https://png.pngtree.com/background/20230419/original/pngtree-website-science-and-technology-light-effect-ring-background-picture-image_2448025.jpg')",
+            "url('/images/somaxso-banner-image-home.jpg')",
         }}
       ></div>
 
